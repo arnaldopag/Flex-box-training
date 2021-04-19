@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+.carteirinha {
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: center;
+}
+#logo1 {
+    width: 120px;
+    margin-left: 10px;
+}
+#logo2 {
+    width: 60px;
+}
+#logo3 {
+    width: 85px;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#tom {
+    width: 192px;
+    height: 200px;
+}
+#texto {
+    margin-left: 20px;
+}
+#qr-code {
+    height: 100px;
+    width: 100px;
+}
+#ano {
+    width: 196px;
+    height: 100px;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
